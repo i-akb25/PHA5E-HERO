@@ -4,7 +4,7 @@ import useThrottle from "./hooks/useThrottle";
 import ImageGrid from "./components/ImageGrid";
 import "@fontsource/archivo-black";
 import Navbar from "./components/Navbar";
-import LoadingScreen from "./components/LoadingScreen";
+import LoadingScreen from "./components/Loadingscreen";
 
 const text = ["IMAGINING", "UNIQUE", "CONCEPTS", "AND DIGITAL", "EXPERIENCES"];
 
