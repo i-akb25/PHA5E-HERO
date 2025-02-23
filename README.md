@@ -1,4 +1,3 @@
-
 # 🚀 Hero Section Recreation - Itzfizz Internship Assignment  
 
 ## 🎨 Overview  
@@ -36,8 +35,7 @@ Built using **Vite + React**, styled with **Tailwind CSS**, and powered by **GSA
 
 ## 🎥 Live Demo  
 
-🔗 **[Live Hosted Version](#)** (_Add your deployment link here_)  
-
+🔗 **[Live Hosted Version](https://pha5e-hero-theta.vercel.app/)**
 ---
 
 ## 🚀 Getting Started  
@@ -45,9 +43,10 @@ Built using **Vite + React**, styled with **Tailwind CSS**, and powered by **GSA
 ### 💻 Running Locally  
 
 1️⃣ **Clone the repository**  
+
 ```bash
 git clone https://github.com/i-akb25/hero-section-recreation.git
-
+```
 
 2️⃣ **Navigate to the project folder**  
 ```bash
@@ -93,13 +92,9 @@ This project is for educational purposes and is part of the **Itzfizz Web Develo
 
 ---
 
-💡 _Developed with ❤️ by [Anurag Kumar Bharti](https://github.com/i-akb25)_  
+💡 _Developed with ❤️ 
+by
+[Anurag Kumar Bharti](https://github.com/i-akb25)_ 
+   
 ```
 
-### 🔥 What’s Improved?  
-✅ **More concise and readable structure**  
-✅ **Better flow and formatting**  
-✅ **Emphasized key features with bullet points**  
-✅ **Clearer deployment and installation instructions**  
-
-Let me know if you need further modifications! 🚀
