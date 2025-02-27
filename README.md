@@ -1,4 +1,4 @@
-# 🚀 Hero Section Recreation - Itzfizz Internship Assignment  
+# 🚀 Hero Section Recreation   
 
 ## 🎨 Overview  
 
@@ -88,8 +88,7 @@ vercel deploy
 
 ## 📜 License  
 
-This project is for educational purposes and is part of the **Itzfizz Web Development Internship Assignment**.  
-
+This project is for educational purposes.
 ---
 
 💡 _Developed with ❤️ 
